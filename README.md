@@ -10,7 +10,7 @@ In the folder `Path Guidance`, you can find supplementary results comparing guid
 This plot compares both path guidance and loss guidance with and without MEW regularization. It clearly shows that regularization is essential to prevent the collapse of sampled points.
 
 #### `Path Guidance/Path guidance Chingolin.png`  
-This plot compares path guidance with and without MEW regularization on the Chingolin data. While slightly higher guidance success can be achieved without MEW, the results demonstrate that MEW regularization is crucial to maintain both sample quality—measured via the Wasserstein Distance—and adherence to guiding points—measured via Maximum Mean Discrepancy (MMD).
+This plot compares path guidance with and without MEW regularization on the Chingolin data. While slightly higher guidance success can be achieved without MEW, the results demonstrate that MEW regularization is crucial to maintain both sample quality, measured via the Wasserstein Distance, and adherence to guiding points, measured via Maximum Mean Discrepancy (MMD).
 
 ## Observable Guidance
 
