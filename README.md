@@ -1,1 +1,1 @@
-# Minimum-Excess-Work-guidance
+# Minimum-Excess-Work Guidance
