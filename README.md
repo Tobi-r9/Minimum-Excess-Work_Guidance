@@ -4,7 +4,7 @@ This repository contains additional results for the work *Minimum-Excess-Work (M
 
 ## Path Guidance
 
-In the folder `path guidance`, you can find supplementary results comparing guidance with and without MEW regularization.
+In the folder `Path Guidance`, you can find supplementary results comparing guidance with and without MEW regularization.
 
 #### `Path Guidance/toy example-MEW effect.png`  
 This plot compares both path guidance and loss guidance with and without MEW regularization. It clearly shows that regularization is essential to prevent the collapse of sampled points.
